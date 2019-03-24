@@ -6,3 +6,5 @@
 ![Question Description](5.png)
 ![Question Description](6.png)
 ![Question Description](7.png)
+
+Two soluction. Soluction.java, a more effienct (only use array) way is done by Harvey and SoluctionB (a little bit longer, used ArrayList) is done by me
